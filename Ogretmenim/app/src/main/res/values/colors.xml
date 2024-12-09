@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_blue">#0c4b7c</color>
+    <color name="secondary_blue">#1ba4dc</color>
+    <color name="accent_red">#d31c2a</color>
+    <color name="highlight_red">#ec1b23</color>
+    <color name="positive_green">#9bc33b</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="bottom_nav_background">#0c4b7c</color> <!-- Arka plan lacivert -->
+    <color name="bottom_nav_item_unselected">#FFFFFF</color> <!-- Seçilmemiş ikon/metin beyaz -->
+    <color name="bottom_nav_item_selected">#9bc33b</color> <!-- Seçilmiş ikon/metin yeşil -->
+</resources>

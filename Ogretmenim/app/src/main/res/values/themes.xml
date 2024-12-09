@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ogretmenim" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryContainer">@color/secondary_blue</item>
+        <item name="colorSecondary">@color/positive_green</item>
+        <item name="colorSecondaryContainer">@color/light_gray</item>
+        <item name="colorError">@color/accent_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/primary_blue</item>
+
+        <!-- Background and Surface Colors -->
+        <item name="colorSurface">@color/light_gray</item>
+        <item name="colorOnSurface">@color/primary_blue</item>
+    </style>
+
+    <style name="Theme.Ogretmenim" parent="Base.Theme.Ogretmenim" />
+</resources>
